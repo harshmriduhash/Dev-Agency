@@ -14,7 +14,7 @@ const Description = () => {
           <p className="text-xl mb-3">More than 15 clients</p>
           <p className="text-sm mb-5 opacity-70">
             We help companies create a digital presence that attracts more
-            customers and increases the company's competitiveness.
+            customers and increases the company's business.
           </p>
         </div>
       </div>

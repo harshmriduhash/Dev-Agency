@@ -18,9 +18,9 @@ const WorkInfos = () => {
                         <button className='p-5'>lets work</button>
                     </div>
 
-                    <p className='text-3xl'>call : +103132544334</p>
-                    <p className='text-3xl'>email : dummy@dummy.dummy</p>
-                    <p className='text-3xl'>instagram : the_anonymous_agency</p>
+                    <p className='text-3xl'>call : 9674783793</p>
+                    <p className='text-3xl'>email : Sahayharsh2709@gmail.com</p>
+                    <p className='text-3xl'>Twitter : 10K Solutions</p>
 
                 </div>
 

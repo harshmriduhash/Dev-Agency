@@ -11,11 +11,11 @@ const Logo = () => {
                 </Link>
                 
                 <Link to="/" className='w-full block text-2xl -mt-3 uppercase'>
-                    anonymous
+                    10K
                 </Link>
                 
                 <Link to="/" className='  text-md -mt-3'>
-                    agency
+                    Solutions
                 </Link>
             </h1>
         </div>

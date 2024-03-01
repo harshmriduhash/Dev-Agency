@@ -3,20 +3,24 @@ import SubTitle from "../../../../UI/SubTitle";
 
 const skills = [
   {
-    name: "JavaScript",
-    percent: "90",
+    name: "MERN Stack",
+    percent: "99",
   },
   {
-    name: "Redux JS",
-    percent: "75",
+    name: "Deployment",
+    percent: "99",
   },
   {
-    name: "React JS",
-    percent: "95",
+    name: "React Native",
+    percent: "99",
   },
   {
-    name: "GSAP",
-    percent: "70",
+    name: "Flutter",
+    percent: "99",
+  },
+  {
+    name: "Bubble, FlutterFlow, Airtable",
+    percent: "99",
   },
 ];
 

@@ -11,7 +11,7 @@ const Description = () => {
 
       <div className="flex gap-5">
         <div className="flex-1">
-          <p className="text-xl mb-3">more than 15 clients</p>
+          <p className="text-xl mb-3">More than 15 clients</p>
           <p className="text-sm mb-5 opacity-70">
             We help companies create a digital presence that attracts more
             customers and increases the company's competitiveness.

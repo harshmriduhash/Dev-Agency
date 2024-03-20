@@ -15,8 +15,10 @@ const TestimonialSlide = ({ img, name, job }) => {
         </div>
 
         <p className="text-xl sm:text-2xl mt-[17%]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-          delectus exercitationem tenetur eum?
+          Harsh proves to be an excellent collaborative developer. He is highly
+          creative and a very easy-going person to work with. Harsh's knows his
+          stack well and his technical knowledge reflects on the excellent work
+          he produces. Definitely recommended!
         </p>
 
         <h5 className="mt-5 text-4xl uppercase">{name}</h5>

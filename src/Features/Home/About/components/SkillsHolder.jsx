@@ -35,12 +35,11 @@ const SkillsHolder = () => {
 
       <p className=" text-md ">
         We Use The Power Of AI And No-Code To Develop Unmatched User
-        Experiences. We Can Build An Entire Product For You In 40% Reduced Time,
-        With The Less Cost Of Traditional Development. We Are Hyper-Focused On
-        Creating Best Class Scaleable Applications, Optimized For The Best
-        Possible User Experience And Product. We're The All-In-One Solution For
-        Startups, Upscales And Corporations Looking To Rapidly Develop, And Then
-        Launch With Our Support
+        Experiences. We Can Build An Entire Product For You In 40% Reduced Time.
+        We Are Hyper-Focused On Creating Best Class Scaleable Applications,
+        Optimized For The Best Possible User Experience And Product. We're The
+        All-In-One Solution For Startups which are Looking To Rapidly Develop,
+        And Then Launch With Our Support
       </p>
 
       <div className=" mt-16 flex flex-col gap-5 w-full">

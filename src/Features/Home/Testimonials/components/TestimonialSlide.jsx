@@ -16,9 +16,7 @@ const TestimonialSlide = ({ img, name, job }) => {
 
         <p className="text-xl sm:text-2xl mt-[17%]">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-          delectus exercitationem tenetur eum? Totam nemo labore beatae tempore
-          fuga similique, neque iure odio minus quia saepe nobis recusandae
-          possimus laborum!
+          delectus exercitationem tenetur eum?
         </p>
 
         <h5 className="mt-5 text-4xl uppercase">{name}</h5>

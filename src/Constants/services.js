@@ -17,7 +17,7 @@ const services = [
     },
     {
         color:"bg-red-400",
-        name:"AI AutomationNo/Low Code",
+        name:"No/Low Code",
         words:["Chatbot development","AI-Automation","idea validation",]
     },
     {

@@ -11,11 +11,7 @@ const skills = [
     percent: "99",
   },
   {
-    name: "React Native",
-    percent: "99",
-  },
-  {
-    name: "Flutter",
+    name: "React Native, Flutter",
     percent: "99",
   },
   {

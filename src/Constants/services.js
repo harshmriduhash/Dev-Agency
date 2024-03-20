@@ -22,7 +22,7 @@ const services = [
     },
     {
         color:"bg-red-400",
-        name:"No/Low Code",
+        name:"AI Automation",
         words:["Bubble App development","Web development","Dashboards",]
     },
 ]

@@ -16,7 +16,7 @@ const services = [
     href: img2,
   },
   {
-    name: "AI Automations, Low/No Code-Chatbots-",
+    name: "AI Automations, Low/No Code Chatbots",
     href: img3,
   },
 ];

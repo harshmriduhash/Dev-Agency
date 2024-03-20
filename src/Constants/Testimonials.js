@@ -8,7 +8,7 @@ const testimonials = [
     {
         img:img3,
         name:"Abhirag Singh",
-        job:"SoftWare Enginner"
+        job:"CEO & Founder"
     },
     {
         img:img4,

@@ -3,7 +3,7 @@ const testimonials = [
     {
         img:img2,
         name:"Vikram Patel",
-        job:"Backend Developer"
+        job:"CTO"
     },
     {
         img:img3,
